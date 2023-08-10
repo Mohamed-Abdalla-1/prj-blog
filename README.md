@@ -1,6 +1,6 @@
 Here is a draft about page for a blog app built with Next.js:
 
-# My Blog
+# Next Blog
 
 This blog was built using Next.js, React, and Markdown. It serves as a platform to share my thoughts on web development, technology, and more.
 
@@ -24,7 +24,7 @@ This blog was built using Next.js, React, and Markdown. It serves as a platform 
 ## Running Locally
 
 ```
-git clone https://github.com/user/blog
+git clone https://github.com/user/prj-blog
 cd blog
 npm install
 npm run dev
