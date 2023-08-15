@@ -33,5 +33,3 @@ The app will be running at `http://localhost:3000`
 ## Scaling Up
 
 Future iterations could integrate a CMS like Contentful or use a database to manage posts. But overall this project served as a great way to sharpen React skills and learn Next fundamentals.
-
-Let me know if you would like me to modify or expand this about page draft further. I focused on summarizing the key technologies and approach used to build the blog.
