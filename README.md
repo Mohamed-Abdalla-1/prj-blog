@@ -1,5 +1,3 @@
-Here is a draft about page for a blog app built with Next.js:
-
 # Next Blog
 
 This blog was built using Next.js, React, and Markdown. It serves as a platform to share my thoughts on web development, technology, and more.
